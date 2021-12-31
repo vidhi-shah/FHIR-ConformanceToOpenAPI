@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+  <TargetFramework>net5.0</TargetFramework>
+</PropertyGroup>
+
+<ItemGroup>
+  <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+  <Compile Include="obj\Debug\net5.0\Documentation.AssemblyInfo.cs" />
+</ItemGroup>
+
+<ItemGroup>
+  <Content Include="bin\Debug\net5.0\Documentation.deps.json" />
+  <Content Include="obj\Debug\net5.0\Documentation.csproj.FileListAbsolute.txt" />
+  <Content Include="obj\Documentation.csproj.nuget.dgspec.json" />
+  <Content Include="obj\project.assets.json" />
+</ItemGroup>
+
+<ItemGroup>
+  <None Include="bin\Debug\net5.0\Documentation.dll" />
+  <None Include="bin\Debug\net5.0\Documentation.pdb" />
+  <None Include="bin\Debug\net5.0\ref\Documentation.dll" />
+  <None Include="obj\Debug\net5.0\Documentation.AssemblyInfoInputs.cache" />
+  <None Include="obj\Debug\net5.0\Documentation.assets.cache" />
+  <None Include="obj\Debug\net5.0\Documentation.csproj.CoreCompileInputs.cache" />
+  <None Include="obj\Debug\net5.0\Documentation.dll" />
+  <None Include="obj\Debug\net5.0\Documentation.GeneratedMSBuildEditorConfig.editorconfig" />
+  <None Include="obj\Debug\net5.0\Documentation.pdb" />
+  <None Include="obj\Debug\net5.0\ref\Documentation.dll" />
+  <None Include="obj\Documentation.csproj.nuget.g.props" />
+  <None Include="obj\Documentation.csproj.nuget.g.targets" />
+  <None Include="obj\project.nuget.cache" />
+</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hl7.Fhir.R4" Version="3.7.0" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.2.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>

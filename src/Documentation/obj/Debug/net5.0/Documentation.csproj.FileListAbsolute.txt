@@ -1,0 +1,11 @@
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\bin\Debug\net5.0\Documentation.deps.json
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\bin\Debug\net5.0\Documentation.dll
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\bin\Debug\net5.0\ref\Documentation.dll
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\bin\Debug\net5.0\Documentation.pdb
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\Documentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\Documentation.AssemblyInfoInputs.cache
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\Documentation.AssemblyInfo.cs
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\Documentation.csproj.CoreCompileInputs.cache
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\Documentation.dll
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\ref\Documentation.dll
+D:\FHIR-ConformanceToOpenAPI\src\Documentation\obj\Debug\net5.0\Documentation.pdb

@@ -1,0 +1,7 @@
+{
+    "@logo": "https://www.ellkay.com/templates/ellkay/images/logo.png",
+    "@introtofhir": "https://1up.health/dev/doc/introduction-to-fhir",
+    "@developers": "https://1up.health/docs/#1uphealth-for-developers",
+    "@signup": "https://fhirdocumentation.lkclouddev.com/LKFhir/images/QuickStartGuide/signupform.png",
+    "@loginform": "https://fhirdocumentation.lkclouddev.com/LKFhir/images/QuickStartGuide/loginform.png"
+}
